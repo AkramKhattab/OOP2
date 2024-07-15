@@ -8,6 +8,7 @@ namespace C42_G04_OOP2
         {
             static void Main()
             {
+
             #region Inheritance
                 // Class -> Class
                 // Class
